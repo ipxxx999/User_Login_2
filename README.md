@@ -5,6 +5,9 @@ User Login Registro Mail y Login de Usuarios con PHP No SQL
 <h2 id="permitir-aplicaciones-menos-seguras-">Registro y Login de Usuarios con Envio Mail "PHP no necesita base de datos"</h2>
 <blockquote>
 <p><strong>Importante</strong>: </p>
+  
+  <strong><h2 id="permitir-aplicaciones-menos-seguras-"> Coloque los archivos 403.php, también 404.php y .htaccess en la carpeta raíz de su sitio web. </h2></strong></p>
+  
 </blockquote>
 <p>En El Diretorio <strong>/assets/ <em>enviar_olvido_correo.php</strong></em>, Corrija la direcci&#243;n de correo electr&#243;nico.</p>
 <p>En archivo <em>control.php<strong></em>, Esta. el nombre de usuario y la contrase&#241;a</p>
